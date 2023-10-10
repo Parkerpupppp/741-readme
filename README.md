@@ -22,3 +22,9 @@ After this, you should have the latest docker packages installed. you can use "s
 
 ## Step 2:
 
+Download or write your own app.py and docker file
+
+You can download them from http://34.28.177.100:3333/ Using user:1 password:1 to login
+
+The necessary files are under data directory
+
